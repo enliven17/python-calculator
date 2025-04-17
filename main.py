@@ -1,3 +1,5 @@
+#very simple pyhton calculator bc im beginner
+
 operator = input("Choose Your Operation (+ - * /) =")
 
 num1 = float(input("Enter the first number ="))
